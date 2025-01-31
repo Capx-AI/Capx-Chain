@@ -1,0 +1,15 @@
+{
+    "name": "Capx Testnet",
+    "chain_id": 10245,
+    "rpc_url": "https://capx-testnet.alt.technology",
+    "wss_url": "wss://capx-testnet.alt.technology/ws",
+    "explorer": "https://capxscan.com",
+    "currency": {
+        "name": "GAS",
+        "symbol": "GAS",
+        "decimals": 18
+    },
+    "block_explorer_api": {
+        "base_url": "https://capxscan.com/api"
+    }
+}

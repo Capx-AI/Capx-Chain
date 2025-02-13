@@ -1,6 +1,6 @@
 # Capx Chain 
 
-Network details for the Capx Testnet blockchain network. The data is stored in JSON format, making it easy to use in applications and scripts.
+Network details for the Capx blockchain, currently in testnet. The data is stored in JSON format, making it easy to use in applications and scripts.
 
 ## Testnet Details
 
